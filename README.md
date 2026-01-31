@@ -39,8 +39,8 @@ The following models were trained and evaluated:
 | Baseline (Mean)      | ~4593  | —             |
 | Linear Regression    | ~2638  | ~5s           |
 | Decision Tree        | ~2482  | ~2s           |
-| Random Forest        | ~2424  | ~69s          |
-| CatBoost             | ~1623  | ~76s          |
+| Random Forest        | ~2424  | ~76s          |
+| CatBoost             | ~1623  | ~74s          |
 | LightGBM             | ~1561  | ~2s           |
 
 
