@@ -59,5 +59,4 @@ The following models were trained and evaluated:
 
 * Hyperparameter tuning with cross-validation
 * Feature engineering (vehicle age, mileage per year)
-
-Model explainability (feature importance, SHAP values)
+* Model explainability (feature importance, SHAP values)
